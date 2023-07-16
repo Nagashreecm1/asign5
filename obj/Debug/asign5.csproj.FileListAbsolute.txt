@@ -1,0 +1,8 @@
+C:\dialytask\Day_4\asign5\bin\Debug\asign5.exe.config
+C:\dialytask\Day_4\asign5\bin\Debug\asign5.exe
+C:\dialytask\Day_4\asign5\bin\Debug\asign5.pdb
+C:\dialytask\Day_4\asign5\obj\Debug\asign5.csproj.AssemblyReference.cache
+C:\dialytask\Day_4\asign5\obj\Debug\asign5.csproj.SuggestedBindingRedirects.cache
+C:\dialytask\Day_4\asign5\obj\Debug\asign5.csproj.CoreCompileInputs.cache
+C:\dialytask\Day_4\asign5\obj\Debug\asign5.exe
+C:\dialytask\Day_4\asign5\obj\Debug\asign5.pdb
